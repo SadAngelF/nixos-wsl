@@ -19,8 +19,8 @@
       system = "x86_64-linux";
 
       specialArgs = {
-        username = "yang";
-        useremail = "norepfy@gmail.com"; # used by git config
+        username = "sadangel";
+        useremail = "571102482@qq.com"; # used by git config
 
         pkgs-stable = import nixpkgs-stable {
           system = system;
